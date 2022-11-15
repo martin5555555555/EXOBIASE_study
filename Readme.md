@@ -6,3 +6,6 @@ Je vous conseille d'observer dans un premier temps le Notebook France.ipynb, dan
 Des features relatives à l'économie française y sont calculées, et les démarches sont expliquées.
 Ensuite, dans le notebook international.ipynb, ces mêmes features sont calculées pour chaque pays (l'opération prend 5 à 6 minutes sur mon ordinateur)
 Un bref exemple d'analyse de données  est alors présenté : nous tentons de déterminer les features caractérisant le mieux les émissions de gazs à effet de serre d'un pays.
+
+En vous remerciant de m'avoir fait découvrir ce jeu de données, 
+Martin Stoll
